@@ -1,2 +1,2 @@
-hello, i love penguins :) 
-
+Hello! 
+My name is KernelTech
